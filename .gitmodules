@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/team-chang-ppo/location_tracking_module_backend.git
+[submodule "ios"]
+	path = ios
+	url = https://github.com/team-chang-ppo/location_tracking_module_ios
