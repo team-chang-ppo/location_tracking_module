@@ -17,16 +17,16 @@
 ### Tracking Server
 ![image](https://github.com/user-attachments/assets/689d3ab5-b535-438d-8215-1202d5841d9a)
 
-### 멤버
+## 멤버
 
-#### Frontend
-| <img src="https://avatars.githubusercontent.com/u/46300191?v=4" width="130" height="130"> |
+### Frontend
+| <img src="https://avatars.githubusercontent.com/u/46300191?v=4" width="200" height="200"> |
 | :---------------------------------------------------------------------------------------: |
 |                         [승재](https://github.com/Sonny-Kor)                              |
 | iOS Application, iOS Module                                                                                 |
 
-#### Backend
-| <img src="https://avatars.githubusercontent.com/u/115917020?v=4" width="130" height="130"> | <img src="https://avatars.githubusercontent.com/u/118044367?v=4" width="130" height="130"> | <img src="https://avatars.githubusercontent.com/u/96743351?v=4" width="130" height="130"> |
+### Backend
+| <img src="https://avatars.githubusercontent.com/u/115917020?v=4" width="200" height="200"> | <img src="https://avatars.githubusercontent.com/u/118044367?v=4" width="200" height="200"> | <img src="https://avatars.githubusercontent.com/u/96743351?v=4" width="200" height="200"> |
 | :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
 |                             [온지](https://github.com/onjik)                              |                             [제용](https://github.com/joon6093)                            |                            [건우](https://github.com/kimgunwooo)                            |
 | Gateway, Aggregation Server                                                              | Account Api, Batch Server                                                          |                                    Tracking Server                                          |
