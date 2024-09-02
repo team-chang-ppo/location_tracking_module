@@ -43,7 +43,7 @@
 </table>
 </center>
 
-# 🖧Architecture 
+# 🛠️Architecture 
 ![image](https://github.com/user-attachments/assets/2419f477-01ee-4147-9b60-fe16c7d1ed52)
 
 ### Gateway, Aggregation Server
